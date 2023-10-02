@@ -6,3 +6,4 @@
 This is a set of notebooks for an undergraduate computational astrophysics tutorial, Spring 2021.
 
 See the main JupyterBook to browse: https://zingale.github.io/comp_astro_tutorial/intro.html
+from josh z
