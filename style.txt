@@ -1,3 +1,5 @@
 toggle cells:
 
 https://jupyterbook.org/interactive/hiding.html
+do this the right way and excel in silence. 
+https://zingale.github.io/comp_astro_tutorial/intro.html
